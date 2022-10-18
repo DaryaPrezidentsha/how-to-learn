@@ -154,7 +154,6 @@
 .table-section{
   flex-direction: row;
   width: 250px;
-  text-align: center;
   margin-top: 60px;
   text-align: left;
 }
@@ -259,8 +258,6 @@
 
 .section-table_theme_dark{
   width: 1100px;
-  margin-top: 20px;
-  text-align: center;
   flex-direction: row;
   justify-content: space-between;
   text-align: left;
@@ -274,12 +271,10 @@
 
 .table_section-table_theme_dark{
   flex-direction: row;
-  text-align: center;
   margin-top: 80px;
   width: 200px;
   text-align: left;
   z-index: 2;
-
 }
 
 .table-section_theme_dark_text{
