@@ -36,6 +36,7 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
+  z-index: 2;
 }
 
 .logo_place_header{
@@ -286,11 +287,6 @@
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-}
-
-.table__cell_theme_dark{
-  width: 200px;
-  z-index: 2;
 }
 
 .table__text_dark_text{
