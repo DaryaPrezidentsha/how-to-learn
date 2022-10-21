@@ -37,6 +37,9 @@
   margin-right: 0;
   margin-top: 80px;
   z-index: 2;
+  text-align: left;
+  flex-direction: row;
+  max-width: 200px;
 }
 
 .logo_place_header{
@@ -292,12 +295,6 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-}
-
-.table__cell_theme_dark{
-  text-align: left;
-  flex-direction: row;
-  max-width: 200px;
 }
 
 .table__heading_theme_dark{
